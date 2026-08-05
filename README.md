@@ -30,10 +30,12 @@ gap between having an idea and being at a keyboard, and the thing here I use mos
 ### What I'm building now
 
 **[be-ing](https://github.com/namick/be-ing)** — *Read the hard books.* Difficult
-philosophy isn't hard because the sentences are long; it's hard because a few words are
-doing enormous, unadvertised work. Be-ing glosses every technical term right where your
-eye already is, and twice over: what the term means across philosophy, and what *this*
-author means by it in *this* sentence. Live at [be-ing.art](https://be-ing.art).
+philosophy isn't hard because the sentences are long. It's hard because it runs on a
+large technical vocabulary that philosophers already share and no book stops to explain
+— ordinary-looking words like *being*, *substance*, and *intuition*, each carrying an
+ancient or narrowly technical sense. Be-ing glosses every one of them in the margin,
+twice: what the term means across philosophy, and what *this* author means by it in
+*this* sentence. Live at [be-ing.art](https://be-ing.art).
 
 ### Larger systems
 
