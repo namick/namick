@@ -1,20 +1,21 @@
-Software engineer, 25 years in. AI is a great thing to build with and a hard thing to
+Software engineer, 25 years in. AI is an easy thing to build with and a hard thing to
 learn next to: it removes the struggle that used to do the teaching. You can ship code
 you don't understand now, and mostly get away with it.
 
 Getting people past that is what I care about most — junior engineers, career changers,
-anyone who arrived through vibe coding and wants more than that. Knowing a system top
-to bottom, well enough to change one part without breaking another, is still the job.
+anyone who arrived through vibe coding and wants more than that. Real software
+engineering still means understanding a system well enough to work in it alongside other
+people: refactoring, adding features, and leaving the codebase better than you found it.
 
 Most of what's here is tooling — small things I built because I wanted them to exist.
 That category barely existed for me before AI; the tools weren't worth the days they
 would have cost. Now they are.
 
-### Claude Code and agents
+### AI and agents
 
-**[claude-experiments](https://github.com/namick/claude-experiments)** — A workshop for
-Claude Code extensions. Skills, slash commands, subagents, and an installer for
-distributing them. The closest thing here to a syllabus.
+**[agentic-toolkit](https://github.com/afk-agents/agentic-toolkit)** — Agent Skills and
+slash commands for AI coding agents, plus an installer for distributing them. Written to
+work across agents rather than for one.
 
 **[afk-viewer](https://github.com/afk-agents/afk-viewer)** — Claude Code writes a JSONL
 transcript of everything it does: every message, every tool call, every subagent it
