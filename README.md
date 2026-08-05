@@ -14,8 +14,8 @@ would have cost. Now they are.
 ### AI and agents
 
 **[agentic-toolkit](https://github.com/afk-agents/agentic-toolkit)** — Agent Skills and
-slash commands for AI coding agents, plus an installer for distributing them. Written to
-work across agents rather than for one.
+slash commands for AI coding agents, built on the open Agent Skills format: they install
+with standard tooling and work with any agent that reads the spec, not one product.
 
 **[afk-viewer](https://github.com/afk-agents/afk-viewer)** — Claude Code writes a JSONL
 transcript of everything it does: every message, every tool call, every subagent it
@@ -26,9 +26,17 @@ legible, live.
 thought, a link, or a voice note and files it into Obsidian, organized. Built for the
 gap between having an idea and being at a keyboard, and the thing here I use most.
 
-### Not on GitHub
+### What I'm building now
 
-The two largest systems I work on are closed.
+**[be-ing](https://github.com/namick/be-ing)** — *Read the hard books.* Difficult
+philosophy isn't hard because the sentences are long; it's hard because a few words are
+doing enormous, unadvertised work. Be-ing glosses every technical term right where your
+eye already is, and twice over: what the term means across philosophy, and what *this*
+author means by it in *this* sentence. Live at [be-ing.art](https://be-ing.art).
+
+### Larger systems
+
+Both are closed source.
 
 **[Civic Lens](https://civiclens.io)** — An API that keeps current records on every US
 federal and state officeholder. Thousands of them, changing constantly, and nobody is
@@ -55,5 +63,4 @@ series on custom React hooks with worked examples in
 [kanban-board-demo](https://github.com/namick/kanban-board-demo).
 
 [Refactoring Consciousness](https://youtube.com/@refactoringconsciousness) — philosophy
-of mind and consciousness science, for software engineers. Its software half is
-[be-ing](https://github.com/namick/be-ing), a reading platform for philosophy of mind.
+of mind and consciousness science, for software engineers.
