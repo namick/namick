@@ -13,9 +13,10 @@ would have cost. Now they are.
 
 ### AI and agents
 
-**[agentic-toolkit](https://github.com/afk-agents/agentic-toolkit)** — Agent Skills and
-slash commands for AI coding agents, built on the open Agent Skills format: they install
-with standard tooling and work with any agent that reads the spec, not one product.
+**[agentic-toolkit](https://github.com/afk-agents/agentic-toolkit)** — Agent Skills,
+slash commands, and an installer for AI coding agents. Built on the open Agent Skills
+format, so each one works with any agent that reads the spec rather than a single
+product.
 
 **[afk-viewer](https://github.com/afk-agents/afk-viewer)** — Claude Code writes a JSONL
 transcript of everything it does: every message, every tool call, every subagent it
@@ -63,4 +64,5 @@ series on custom React hooks with worked examples in
 [kanban-board-demo](https://github.com/namick/kanban-board-demo).
 
 [Refactoring Consciousness](https://youtube.com/@refactoringconsciousness) — philosophy
-of mind and consciousness science, for software engineers.
+of mind and consciousness science, for software engineers. The same territory as
+[be-ing](https://github.com/namick/be-ing), out loud.
