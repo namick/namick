@@ -39,7 +39,7 @@ twice: what the term means across philosophy, and what *this* author means by it
 
 ### Larger systems
 
-The two largest systems I work on are closed.
+The two largest systems I work on are closed source.
 
 **[Civic Lens](https://civiclens.io)** — An API that keeps current records on every US
 federal and state officeholder. Thousands of them, changing constantly, and nobody is
